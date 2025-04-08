@@ -1,8 +1,8 @@
-Bike Sales Dashboard Analysis:
+## Bike Sales Dashboard Analysis:
 
 The Bike Sales Dashboard provides a comprehensive and detailed analysis of purchasing trends across various customer demographics, offering actionable insights for sales strategies and marketing campaigns. The dashboard allows users to explore key factors influencing bike sales, including income, marital status, commute distance, education, and geographic region.
 
-Key Insights and Visualizations:
+## Key Insights and Visualizations:
 
 Income Distribution:
 The dashboard includes an analysis of customer income, segmented across various demographics. It provides valuable insights into how average income correlates with bike purchases, helping to identify target customer segments.
